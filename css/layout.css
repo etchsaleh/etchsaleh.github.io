@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .java {
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -365,13 +365,13 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-moz-keyframes swift {
+@-moz-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-moz-keyframes react {
   0%   { width: 0px;  }
   100% { width: 70%;  }
-}
-@-moz-keyframes csharp {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
 }
 @-moz-keyframes cpp {
   0%   { width: 0px;  }
@@ -383,7 +383,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes html {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
@@ -391,20 +391,20 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 75%;  }
 }
 
 @-webkit-keyframes java {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-webkit-keyframes swift {
+@-webkit-keyframes python {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes cpp {
+@-webkit-keyframes react {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
@@ -412,7 +412,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes html {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
@@ -420,7 +420,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 75%;  }
 }
 
 /* ------------------------------------------------------------------ */
